@@ -1,0 +1,1 @@
+Exercício básico de uma simulação de Supermercado utilizando Vetores, onde podemos Inserir um produto na Lista de compras, Listar a lista de compras e Remover algum produto da lista, mantendo a alocação da Estrutura de Dados do Vetor sem espaços vazios.
